@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&family=Roboto:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#heading{
+    padding-top: 5px;
+    text-align: center;
+    font-size: large;
+    height: 30px;
+    width: auto;
+    background-color: green;
+    color: white;
+}
+
+#summary{
+    text-align: justify;
+    font-size: larger;
+    padding-top: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
